@@ -3,10 +3,8 @@
 Frontend engineering portfolio emphasizing system design,
 predictable state, and UX edge cases.
 
-
-I build maintainable, predictable frontend systems with React and TypeScript.
-My focus is not feature quantity, but **architecture clarity, UX stability, and
-explainable engineering decisions**.
+I build maintainable frontend systems with React and TypeScript.
+My focus is not feature quantity, but **architecture clarity, UX stability, and explainable engineering decisions**.
 
 ---
 
@@ -57,6 +55,6 @@ GitHub: https://github.com/yuting813
 
 ## Background
 
-Transitioned from procurement to frontend engineering.
+Background in procurement with a current focus on frontend engineering.
 I bring structured thinking, delivery discipline, and system-level reasoning
 into frontend development.
